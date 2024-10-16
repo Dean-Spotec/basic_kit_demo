@@ -1,0 +1,15 @@
+{
+  "localization": "本地化",
+  "save": "保存",
+  "pullDownToRefresh": "下拉刷新",
+  "releaseToRefresh": "释放立即刷新",
+  "refreshing": "刷新中...",
+  "refreshSucceeded": "刷新成功",
+  "refreshFailed": "刷新失败",
+  "pullUpToLoadMore": "上拉加载",
+  "releaseToLoadMore": "释放立即加载",
+  "loading": "加载中...",
+  "loadSucceeded": "加载成功",
+  "loadFailed": "加载失败",
+  "noMore": "没有更多"
+}

@@ -1,0 +1,15 @@
+{
+  "localization": "Localization",
+  "save": "Save",
+  "pullDownToRefresh": "Pull down to refresh",
+  "releaseToRefresh": "Release to refresh",
+  "refreshing": "Refreshing...",
+  "refreshSucceeded": "Refresh Succeeded",
+  "refreshFailed": "Refresh Failed",
+  "pullUpToLoadMore": "Pull up to load more",
+  "releaseToLoadMore": "Release to load more",
+  "loading": "Loading...",
+  "loadSucceeded": "Loading Succeeded",
+  "loadFailed": "Loading Failed",
+  "noMore": "No more"
+}
